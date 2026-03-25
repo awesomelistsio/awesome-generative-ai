@@ -39,6 +39,7 @@ Generative AI refers to algorithms (like GANs, VAEs, and LLMs) that can generate
 - **[Bard](https://bard.google.com/)** – Google’s conversational generative AI model.
 - **[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)** – Meta’s open large language model.
 - **[Mistral](https://mistral.ai/news/)** – Lightweight open-source LLMs optimized for performance and scale.
+- **[StoryRoute](https://storyroute.netlify.app)** – AI-powered interactive storytelling platform with branching narratives across fantasy, sci-fi, mystery, and romance genres.
 
 ## Image Generation
 
