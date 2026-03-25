@@ -60,6 +60,7 @@ Generative AI refers to algorithms (like GANs, VAEs, and LLMs) that can generate
 - **[Pika Labs](https://www.pika.art/)** – AI-generated short-form video from text prompts.
 - **[Synthesia](https://www.synthesia.io/)** – Create AI-generated videos with avatars.
 - **[Kaiber](https://www.kaiber.ai/)** – Turn audio and prompts into stylized video.
+- **[PVID](http://pvid.app/)** – Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1. Image-to-video, text-to-video, video-to-video with 100 free credits.
 
 ## Code Generation
 
